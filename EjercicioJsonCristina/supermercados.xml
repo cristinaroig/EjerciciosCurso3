@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<listascompra>
+ <jamon>
+  <supermercados>
+    <carrefour>
+      <direccion>c/perez 2 bajo,valencia 46345</direccion>
+      <coordenadas>
+<norte>34º5'4.6</norte>
+<sur></sur>
+<este>67º9'33.8</este>
+<oeste></oeste>
+</coordenadas>
+<oferta>N</oferta>
+<periodo>Mensual</periodo>
+<medida>Kg</medida>
+<precio>15€/Kg</precio>
+<adquirido>N</adquerido>
+</carrefour>
+<mercadona>
+  <direccion>c/jaen bajo,valencia,46345</direccion>
+  <coordenadas>
+<norte>50º7'20.7</norte>
+<sur></sur>
+<este>10º34'22.0</este>
+<oeste></oeste>
+</coordenadas>
+<oferta>S</oferta>
+<periodo>semana</periodo>
+<medida>Kg</medida>
+<precio>7€/Kg</precio>
+<adquirido>S</adquirido>
+</mercadona>
+</supermercados>
+ </jamon>
+ <pan>
+  <supermercados>
+    <consum>
+      <direccion>c/casas 3 bajo,valencia 46345</direccion>
+      <coordenadas>
+<norte></norte>
+<sur>23º23'12.45</sur>
+<este>67º9'33.8</este>
+<oeste></oeste>
+</coordenadas>
+<oferta>S</oferta>
+<periodo>Mensual</periodo>
+<medida>paquete</medida>
+<precio>2€</precio>
+<adquirido>S</adquirido>
+</consum>
+<dia>
+  <direccion>c/vez 4 bajo,valencia,46345</direccion>
+  <coordenadas>
+<norte></norte>
+<sur>6º9'2.5"</sur>
+<este></este>
+<oeste>10º24'4.7<oeste>
+</coordenadas>
+<oferta>N</oferta>
+<periodo>mensual</periodo>
+<medida>paquete</medida>
+<precio>3€</precio>
+<adquirido>N<adquerido>
+</dia>
+</supermercados>
+ </pan>
+</listascompra>

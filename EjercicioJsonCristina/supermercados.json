@@ -1,0 +1,66 @@
+{
+ "jamon":{
+  "supermercados": {
+    "carrefour":{
+      "direccion":"c/perez 2 bajo,valencia 46345",
+      "cordenadas":{
+"norte":"34º5'4.6",
+"sur":"",
+"este":"67º9'33.8",
+"oeste":""
+},
+"oferta":"N",
+"periodo":"Mensual",
+"medida":"Kg",
+"precio":"15€/Kg",
+"adquirido":"N"
+},
+"mercadona":{
+  "direccion":"c/jaen bajo,valencia,46345",
+  "cordenadas":{
+"norte":"50º7'20.7",
+"sur":"",
+"este":"10º34'22.0",
+"oeste":""
+},
+"oferta":"S",
+"periodo":"semana",
+"medida":"Kg",
+"precio":"7€/Kg",
+"adquirido":"S"
+}
+}
+ },
+ "pan":{
+  "supermercados": {
+    "consum":{
+      "direccion":"c/casas 3 bajo,valencia 46345",
+      "cordenadas":{
+"norte":"",
+"sur":"23º23'12.45",
+"este":"67º9'33.8",
+"oeste":""
+},
+"oferta":"S",
+"periodo":"Mensual",
+"medida":"paquete",
+"precio":"2€",
+"adquirido":"S"
+},
+"dia":{
+  "direccion":"c/vez 4 bajo,valencia,46345",
+  "cordenadas":{
+"norte":"",
+"sur":"6º9'2.5",
+"este":"",
+"oeste":"10º24'4.7"
+},
+"oferta":"N",
+"periodo":"mensual",
+"medida":"paquete",
+"precio":"3€",
+"adquirido":"N"
+}
+}
+ }
+}
