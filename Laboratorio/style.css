@@ -1,0 +1,47 @@
+body {
+    color: black;
+    background-color: #58c9e0dc; 
+    position: relative;
+    display: flex;
+   
+}
+    #division {
+
+        width: 400px;
+        height: 650px;
+        background: red;
+        margin: 15% auto;
+        border-style: solid;
+        border-width: 6px;
+      
+    }
+    .caja{
+        margin-left: 10%;
+        margin-top: 2%;
+    }
+    .titulo{
+        margin-left: 5%;
+        margin-top:2%;
+    }
+    h2 {
+        text-align: center;
+        font-size: 20px;
+        font-family: arial;
+        font-weight: bold;
+    }
+   label {
+    font-weight: bold;
+   }
+   .datos{
+    background-color:#3d3d98f9;
+    color:aliceblue;
+    border: aliceblue,1px,solid;
+   }
+   .botones{
+    text-align: center;
+   }
+   #user{
+        margin-top: 20%;
+    margin-bottom: 0%;
+   }
+       
